@@ -1,2 +1,2 @@
 # Apply-filters-to-SQL-queries
-In this lab scenario, I assumed the role of a cybersecurity professional tasked with extracting crucial information from a database.
+In a lab scenario from the Google Cybersecurity Course, I stepped into the role of a cybersecurity professional, working to extract crucial information from a database.
